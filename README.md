@@ -1,8 +1,43 @@
 # GIT COMMANDS
 
-## Get status
+## Check status of git branch
 ```
 git status
+```
+
+## Check how many branches are there
+```
+git branch
+```
+
+## Add changes for commit
+```
+git add FILEPATH
+```
+
+## Add all changes for commit
+```
+git add .
+```
+
+## Commiting your changes with message
+```
+git commit -m "MESSAGE"
+```
+
+## Take all changes from remote to local same branch
+```
+git pull
+```
+
+## Push all changes to remote from local same branch
+```
+git push
+```
+
+## Take all changes from any remote branch to local branch
+```
+git pull origin BRANCH_NAME
 ```
 
 
