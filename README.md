@@ -45,6 +45,11 @@ git pull origin BRANCH_NAME
 git checkout -b BRANCHNAME
 ```
 
+## Change branch
+```
+git checkout BRANCHNAME
+```
+
 ## Delete new branch
 ```
 git branch -d BRANCHNAME
