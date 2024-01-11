@@ -40,6 +40,15 @@ git push
 git pull origin BRANCH_NAME
 ```
 
+## Create new branch
+```
+git checkout -b BRANCHNAME
+```
+
+## Delete new branch
+```
+git branch -d BRANCHNAME
+```
 
 ## Get first commit
 ```
