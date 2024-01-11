@@ -1,5 +1,10 @@
 # GIT COMMANDS
 
+## Get status
+```
+git status
+```
+
 
 ## Get first commit
 ```
